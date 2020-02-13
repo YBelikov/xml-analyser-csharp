@@ -1,0 +1,9 @@
+D:\CSharp\XMLAnalyser\XMLAnalyser\bin\Debug\XMLAnalyser.exe.config
+D:\CSharp\XMLAnalyser\XMLAnalyser\bin\Debug\XMLAnalyser.exe
+D:\CSharp\XMLAnalyser\XMLAnalyser\bin\Debug\XMLAnalyser.pdb
+D:\CSharp\XMLAnalyser\XMLAnalyser\obj\Debug\XMLAnalyser.csprojAssemblyReference.cache
+D:\CSharp\XMLAnalyser\XMLAnalyser\obj\Debug\XMLAnalyser.Form1.resources
+D:\CSharp\XMLAnalyser\XMLAnalyser\obj\Debug\XMLAnalyser.Properties.Resources.resources
+D:\CSharp\XMLAnalyser\XMLAnalyser\obj\Debug\XMLAnalyser.csproj.GenerateResource.cache
+D:\CSharp\XMLAnalyser\XMLAnalyser\obj\Debug\XMLAnalyser.exe
+D:\CSharp\XMLAnalyser\XMLAnalyser\obj\Debug\XMLAnalyser.pdb

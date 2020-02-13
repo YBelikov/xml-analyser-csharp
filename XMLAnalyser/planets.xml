@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding="utf-8"?>
+<Planets>
+	<Planet
+		Name = "Mercury"
+		MassInEarthMass = "0.55" 
+		EquatorialRadius =  "2439.7"
+		NumberOfNaturalSatellites = "0">
+	</Planet>
+	<Planet
+		Name = "Venus"
+		MassInEarthMass = "0.82" 
+		EquatorialRadius =  "6051.8"
+		NumberOfNaturalSatellites = "0">
+	</Planet>
+	<Planet
+		Name = "Earth"
+		MassInEarthMass = "1.0" 
+		EquatorialRadius =  "6371"
+		NumberOfNaturalSatellites = "1">
+	</Planet>
+	<Planet
+		Name = "Mars"
+		MassInEarthMass = "0.107" 
+		EquatorialRadius =  "3396.2"
+		NumberOfNaturalSatellites = "2">
+	</Planet>
+	<Planet
+		Name = "Pluto"
+		MassInEarthMass = "0.24" 
+		EquatorialRadius =  "1188.3"
+		NumberOfNaturalSatellites = "1">
+	</Planet>
+<Planet
+		Name = "Uranus"
+		MassInEarthMass = "14.54" 
+		EquatorialRadius =  "25559"
+		NumberOfNaturalSatellites = "27">
+	</Planet>
+	<Planet
+		Name = "A"
+		MassInEarthMass = "0.107" 
+		EquatorialRadius =  "3396.2"
+		NumberOfNaturalSatellites = "2">
+	</Planet>
+	
+</Planets>
